@@ -4,6 +4,6 @@ These are just some random scripts that I've written and find useful. Use them a
 
 All of these scripts are released without a license, so use and redistribute them as you see fit.
 
--`lch.sh`: Launches a program silently in the background
--`mountvms.sh`: Automates mounting shared volumes in VMWare with open-vm-tools
--`ramdisk.sh`: simple ramdisk creater and manager
+`lch.sh`: Launches a program silently in the background
+`mountvms.sh`: Automates mounting shared volumes in VMWare with open-vm-tools
+`ramdisk.sh`: simple ramdisk creater and manager
